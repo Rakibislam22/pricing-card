@@ -1,0 +1,77 @@
+[
+  {
+    "id": "starter",
+    "name": "Starter Plan",
+    "monthlyPrice": 0,
+    "annualPrice": 0,
+    "description": "Everything you need to start creating.",
+    "isHighlighted": false,
+    "features": [
+      "3 projects limit",
+      "Only one page in projects",
+      "Low resolution video exports",
+      "Free mockup items and content",
+      "Personal license for hobby usage"
+    ]
+  },
+  {
+    "id": "lite",
+    "name": "Lite Plan",
+    "monthlyPrice": 7,
+    "annualPrice": 70,
+    "description": "For the mockup enthusiasts and template lovers.",
+    "isHighlighted": false,
+    "features": [
+      "Unlimited projects",
+      "Premium mockups and content",
+      "Premium templates",
+      "Commercial license",
+      "Project versions",
+      "Project presentation"
+    ]
+  },
+  {
+    "id": "professional",
+    "name": "Professional Plan",
+    "monthlyPrice": 12,
+    "annualPrice": 120,
+    "description": "For pro graphic and motion designers.",
+    "isHighlighted": true,
+    "features": [
+      "Unlimited projects",
+      "Premium mockups and content",
+      "Premium templates",
+      "Commercial license",
+      "Project versions",
+      "Project presentation",
+      "Branding components",
+      "Custom fonts",
+      "Digital Assets Manager",
+      "Team collaboration",
+      "HD Video Export",
+      "Standard customer support"
+    ]
+  },
+  {
+    "id": "ultimate",
+    "name": "Ultimate Plan",
+    "monthlyPrice": 29,
+    "annualPrice": 290,
+    "description": "For agencies & medium to large teams.",
+    "isHighlighted": false,
+    "features": [
+      "Unlimited projects",
+      "Premium mockups and content",
+      "Premium templates",
+      "Commercial license",
+      "Project versions",
+      "Project presentation",
+      "Branding components",
+      "Custom fonts",
+      "Digital Assets Manager",
+      "Team collaboration",
+      "HD Video Export",
+      "Standard customer support"
+    ]
+  }
+]
